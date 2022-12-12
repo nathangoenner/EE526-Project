@@ -6,7 +6,7 @@ This assignment will teach you how to train, quantize, and deploy a deep learnin
 
 ### Hardware
 
-- STM32F4DISCOVERY development kit
+- STM32F4DISCOVERY development kit (https://www.digikey.com/en/products/detail/stmicroelectronics/STM32F407G-DISC1/5824404)
 - USB-A to Mini USB type B cable
 - Host machine running linux (or a virtual machine)
 
