@@ -42,7 +42,7 @@ In the main function, at line 142, we begin to initialize our TensorFlow model. 
 
 Finally, there is a `while (1)` loop. When writing firmware for microcontrollers, we don't want to exit our main function because that is essentially equivalent of turning off the microcontroller. So instead, we stay in the main while(1) loop indefinitely. Within this loop we will run inferences on our defined input of 20 input samples between 0 and 2pi.
 
-## Flash the microcontroller and enter debug mode for validation
+## Step 4: Flash the microcontroller and enter debug mode for validation
 
 Similar to the previous step, this project is already configured via .vscode/launch.json to attach to a connected microcontroller, flash it, and enter debug mode.
 
